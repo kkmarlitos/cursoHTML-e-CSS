@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient( #050cdba6,#074ef2bb,#0787e8cb);
+    background-attachment: fixed;
+    font: 1em serif ;
+}
+h1{
+    color: #01DB02;
+}
+h1#prin{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.733);
+    text-decoration: underline;
+}
+p{
+    color: rgba(0, 0, 0, 0.705);
+}
+.classico{
+    color: #F29311;
+}
+.medio{
+    color: #DB6F1A;
+}
+.foda{
+    color: #F25211;
+}
