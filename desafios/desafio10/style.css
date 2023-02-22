@@ -127,10 +127,12 @@ footer{
   aside > ul{
     list-style-position: inside;
     columns: 2;
+    padding-right: 40px;
   }
   li{
     margin-left: 30px;
     text-decoration: underline;
+    width: 100%;
   }
   aside > h3{
     margin: 0px;
